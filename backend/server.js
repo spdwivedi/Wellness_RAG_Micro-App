@@ -13,16 +13,17 @@ app.use(cors());
 
 // --- CONFIGURATION ---
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
-// Note: "text-embedding-004" for embeddings, "gemini-1.5-flash" for chat
-const embeddingModel = genAI.getGenerativeModel({ model: "text-embedding-004" });
-const chatModel = genAI.getGenerativeModel({ 
-    model: "gemini-flash-latest",
-    safetySettings: [
-        { category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT, threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE },
-        { category: HarmCategory.HARM_CATEGORY_HATE_SPEECH, threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE },
-    ]
-});
 
+// 1. MODEL STRATEGY
+// Note: If 'gemini-2.5-flash' does not exist yet in your region, 
+// the code will automatically fall back to the others.
+const modelsToTry = [
+    "gemini-2.5-flash",      // Primary
+    "gemini-2.0-flash-exp",  // Backup 1
+    "gemini-1.5-flash"       // Backup 2
+];
+
+const embeddingModel = genAI.getGenerativeModel({ model: "text-embedding-004" });
 const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY });
 const index = pinecone.index('yoga-gemini');
 
@@ -30,6 +31,45 @@ mongoose.connect(process.env.MONGO_URI).then(() => console.log("🍃 MongoDB Con
 
 // --- CUSTOM SAFETY KEYWORDS ---
 const UNSAFE_KEYWORDS = ["pregnant", "trimester", "surgery", "hernia", "glaucoma", "blood pressure", "fracture", "pain", "injury"];
+
+// --- HELPER FUNCTION: SMART FALLBACK (FIXED) ---
+async function generateWithFallback(systemInstruction, fullPrompt) {
+  for (const modelName of modelsToTry) {
+    try {
+      console.log(`🤖 Requesting via: ${modelName}...`);
+      const model = genAI.getGenerativeModel({ 
+        model: modelName,
+        safetySettings: [
+             { category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT, threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE },
+             { category: HarmCategory.HARM_CATEGORY_HATE_SPEECH, threshold: HarmBlockThreshold.BLOCK_LOW_AND_ABOVE },
+        ]
+      });
+
+      // FIX: Pass the text directly as a string or simple object. 
+      // Do NOT wrap it in { role: "user", parts: [...] } for generateContent.
+      const result = await model.generateContent({
+        contents: [
+          {
+            role: 'user',
+            parts: [
+              { text: systemInstruction + "\n\n" + fullPrompt }
+            ]
+          }
+        ]
+      });
+      
+      return result.response.text(); 
+      
+    } catch (error) {
+      console.warn(`⚠️ ${modelName} failed. Error: ${error.message}`);
+      // Only log the fallback if we have more models to try
+      if (modelsToTry.indexOf(modelName) < modelsToTry.length - 1) {
+          console.warn(`🔄 Switching to next backup model...`);
+      }
+    }
+  }
+  throw new Error("All AI Gurus are currently meditating. Please try again later.");
+}
 
 app.post('/ask', async (req, res) => {
   try {
@@ -46,7 +86,7 @@ app.post('/ask', async (req, res) => {
       }
     });
 
-    // 2. Embed User Query (Gemini)
+    // 2. Embed User Query
     const result = await embeddingModel.embedContent(query);
     const vector = result.embedding.values;
 
@@ -77,8 +117,7 @@ app.post('/ask', async (req, res) => {
     const fullPrompt = `Context:\n${context}\n\nUser Question:\n${query}`;
 
     // 5. Generate Answer
-    const chatResult = await chatModel.generateContent(systemInstruction + "\n\n" + fullPrompt);
-    const answer = chatResult.response.text();
+    const answer = await generateWithFallback(systemInstruction, fullPrompt);
 
     // 6. Log to MongoDB
     await Log.create({ userQuery: query, aiResponse: answer, retrievedContext: sources, isUnsafe, safetyFlags });
@@ -86,7 +125,7 @@ app.post('/ask', async (req, res) => {
     res.json({ answer, sources, isUnsafe, safetyFlags });
 
   } catch (error) {
-    console.error("Error:", error);
+    console.error("Server Error:", error);
     res.status(500).json({ error: "Mental Block! (Server Error)" });
   }
 });
