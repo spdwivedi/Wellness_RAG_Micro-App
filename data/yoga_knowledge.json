@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "1",
+    "title": "Mountain Pose (Tadasana)",
+    "content": "Tadasana is the base for all standing poses. It improves posture, strengthens the thighs, knees, and ankles, and helps firm the abdomen.",
+    "safety_notes": "If you have low blood pressure, avoid standing for too long.",
+    "category": "Beginner"
+  },
+  {
+    "id": "2",
+    "title": "Child's Pose (Balasana)",
+    "content": "A resting pose that gently stretches the hips, thighs, and ankles. It helps calm the mind and relieves stress and fatigue.",
+    "safety_notes": "Avoid if you have a knee injury or diarrhea.",
+    "category": "Beginner"
+  },
+  {
+    "id": "3",
+    "title": "Downward-Facing Dog (Adho Mukha Svanasana)",
+    "content": "An energizing pose that stretches the shoulders, hamstrings, and calves while strengthening the arms and legs.",
+    "safety_notes": "Avoid if you have carpal tunnel syndrome or high blood pressure.",
+    "category": "Beginner"
+  },
+  {
+    "id": "4",
+    "title": "Warrior I (Virabhadrasana I)",
+    "content": "Builds focus and stamina. Stretches the chest, lungs, and shoulders while strengthening the legs.",
+    "safety_notes": "Keep your gaze forward if you have neck issues.",
+    "category": "Beginner"
+  },
+  {
+    "id": "5",
+    "title": "Warrior II (Virabhadrasana II)",
+    "content": "A powerful standing pose that increases endurance and strengthens the legs and ankles.",
+    "safety_notes": "Avoid if you have recent hip or knee surgery.",
+    "category": "Beginner"
+  },
+  {
+    "id": "6",
+    "title": "Tree Pose (Vrksasana)",
+    "content": "Improves balance and concentration. Strengthens the spine and legs while opening the hips.",
+    "safety_notes": "Never place your foot directly on the side of the knee joint.",
+    "category": "Beginner"
+  },
+  {
+    "id": "7",
+    "title": "Cobra Pose (Bhujangasana)",
+    "content": "A gentle backbend that opens the chest and strengthens the spine and shoulders.",
+    "safety_notes": "Avoid during pregnancy or if you have a recent back injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "8",
+    "title": "Cat Pose (Marjaryasana)",
+    "content": "Provides a gentle massage to the spine and abdominal organs. Often paired with Cow Pose.",
+    "safety_notes": "If you have a neck injury, keep your head in line with your torso.",
+    "category": "Beginner"
+  },
+  {
+    "id": "9",
+    "title": "Cow Pose (Bitilasana)",
+    "content": "Stretches the front torso and neck. It warms up the spine and improves posture.",
+    "safety_notes": "Move slowly if you have chronic back pain.",
+    "category": "Beginner"
+  },
+  {
+    "id": "10",
+    "title": "Easy Pose (Sukhasana)",
+    "content": "A classic seated pose for meditation. It strengthens the back and stretches the knees and ankles.",
+    "safety_notes": "Sit on a folded blanket if your hips are very tight.",
+    "category": "Beginner"
+  },
+  {
+    "id": "11",
+    "title": "Bridge Pose (Setu Bandha Sarvangasana)",
+    "content": "Stretches the chest, neck, and spine. It also helps alleviate stress and mild depression.",
+    "safety_notes": "Avoid moving your head side-to-side while in the pose to protect the neck.",
+    "category": "Beginner"
+  },
+  {
+    "id": "12",
+    "title": "Plank Pose (Phalakasana)",
+    "content": "Builds core and upper body strength. It tones the abdominal muscles and strengthens the wrists.",
+    "safety_notes": "Avoid if you have severe carpal tunnel syndrome.",
+    "category": "Beginner"
+  },
+  {
+    "id": "13",
+    "title": "Corpse Pose (Savasana)",
+    "category": "Beginner",
+    "content": "The ultimate relaxation pose. It lowers blood pressure and calms the central nervous system.",
+    "safety_notes": "If you have lower back pain, place a bolster under your knees."
+  },
+  {
+    "id": "14",
+    "title": "Bound Angle Pose (Baddha Konasana)",
+    "content": "Often called Butterfly Pose, it stretches the inner thighs, groins, and knees.",
+    "safety_notes": "If you have knee or groin injuries, use blocks under your thighs for support.",
+    "category": "Beginner"
+  },
+  {
+    "id": "15",
+    "title": "Legs-Up-The-Wall Pose (Viparita Karani)",
+    "content": "A restorative pose that improves circulation and relieves tired legs and feet.",
+    "safety_notes": "Avoid if you have glaucoma or serious eye conditions.",
+    "category": "Beginner"
+  },
+  {
+    "id": "16",
+    "title": "Staff Pose (Dandasana)",
+    "content": "The seated version of Mountain Pose. It improves posture and strengthens the back muscles.",
+    "safety_notes": "If your lower back rounds, sit on a blanket to tilt the pelvis forward.",
+    "category": "Beginner"
+  },
+  {
+    "id": "17",
+    "title": "Knees-to-Chest Pose (Apanasana)",
+    "content": "Helps release lower back tension and aids in digestion by massaging the abdominal organs.",
+    "safety_notes": "Avoid if you have a recent hip injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "18",
+    "title": "Sphinx Pose (Salamba Bhujangasana)",
+    "content": "A very gentle backbend for beginners that strengthens the spine and stimulates the sacral-lumbar arch.",
+    "safety_notes": "Avoid if you have a recent abdominal surgery.",
+    "category": "Beginner"
+  },
+  {
+    "id": "19",
+    "title": "Standing Forward Bend (Uttanasana)",
+    "content": "Stretches the hamstrings and calves while calming the brain and reducing stress.",
+    "safety_notes": "Keep knees slightly bent if you have lower back issues.",
+    "category": "Beginner"
+  },
+  {
+    "id": "20",
+    "title": "Low Lunge (Anjaneyasana)",
+    "content": "Stretches the hip flexors and groins while strengthening the legs.",
+    "safety_notes": "Place a blanket under the back knee if you feel discomfort.",
+    "category": "Beginner"
+  },
+  {
+    "id": "21",
+    "title": "Reverse Warrior (Viparita Virabhadrasana)",
+    "content": "A standing pose that stretches the side body and waist while strengthening the legs and core.",
+    "safety_notes": "Avoid if you have hip, knee, or shoulder injuries.",
+    "category": "Beginner"
+  },
+  {
+    "id": "22",
+    "title": "Extended Side Angle (Utthita Parsvakonasana)",
+    "content": "Strengthens and stretches the legs, hips, and hamstrings while opening the chest and shoulders.",
+    "safety_notes": "If you have neck problems, look straight ahead instead of up at the arm.",
+    "category": "Beginner"
+  },
+  {
+    "id": "23",
+    "title": "Wide-Legged Forward Bend (Prasarita Padottanasana)",
+    "content": "A calming inversion that stretches the hamstrings and back while improving circulation to the brain.",
+    "safety_notes": "Avoid if you have lower back problems or a recent hip surgery.",
+    "category": "Beginner"
+  },
+  {
+    "id": "24",
+    "title": "Pyramid Pose (Parsvottanasana)",
+    "content": "Intense stretch for the hamstrings and spine. It improves balance and digestion.",
+    "safety_notes": "Keep a slight bend in the knees if you have tight hamstrings to avoid strain.",
+    "category": "Beginner"
+  },
+  {
+    "id": "25",
+    "title": "Garland Pose (Malasana)",
+    "content": "A deep squat that opens the hips and stretches the ankles, lower back, and neck.",
+    "safety_notes": "Place a rolled-up mat under your heels if they don't touch the floor.",
+    "category": "Beginner"
+  },
+  {
+    "id": "26",
+    "title": "Puppy Pose (Uttana Shishosana)",
+    "content": "A cross between Child's Pose and Downward Dog. It stretches the spine and shoulders deeply.",
+    "safety_notes": "Avoid if you have a recent shoulder or knee injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "27",
+    "title": "Happy Baby Pose (Ananda Balasana)",
+    "content": "Gently opens the inner thighs and groins while calming the brain and relieving stress.",
+    "safety_notes": "Avoid if you have a knee injury or are pregnant.",
+    "category": "Beginner"
+  },
+  {
+    "id": "28",
+    "title": "Seated Forward Bend (Paschimottanasana)",
+    "content": "Stretches the entire back of the body from the heels to the neck. Helps soothe the mind.",
+    "safety_notes": "Do not force the fold; use a strap around the feet if you cannot reach them.",
+    "category": "Beginner"
+  },
+  {
+    "id": "29",
+    "title": "Hero Pose (Virasana)",
+    "content": "A seated posture that stretches the thighs and knees. It is an excellent pose for meditation.",
+    "safety_notes": "Avoid if you have a serious knee or ankle injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "30",
+    "title": "Gate Pose (Parighasana)",
+    "content": "Stretches the side of the torso and the hamstrings. It helps stimulate the abdominal organs.",
+    "safety_notes": "Keep the knee on a blanket if it feels sensitive on the floor.",
+    "category": "Beginner"
+  },
+  {
+    "id": "31",
+    "title": "Lizard Pose (Utthan Pristhasana)",
+    "content": "A deep hip opener that stretches the hamstrings, hip flexors, and groins.",
+    "safety_notes": "Use blocks under your hands or forearms to reduce intensity.",
+    "category": "Beginner"
+  },
+  {
+    "id": "32",
+    "title": "Supine Spinal Twist (Supta Matsyendrasana)",
+    "content": "A restorative twist that stretches the back muscles and spine while encouraging detoxification.",
+    "safety_notes": "Avoid if you have a recent back or hip injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "33",
+    "title": "Locust Pose (Salabhasana)",
+    "content": "Strengthens the muscles of the spine, buttocks, and the backs of the arms and legs.",
+    "safety_notes": "Avoid if you have a serious back injury or headache.",
+    "category": "Beginner"
+  },
+  {
+    "id": "34",
+    "title": "Big Toe Pose (Padangusthasana)",
+    "content": "Stretches the hamstrings and calves. It also helps relieve flat feet and menopause symptoms.",
+    "safety_notes": "Keep knees bent if you feel any strain in the lower back.",
+    "category": "Beginner"
+  },
+  {
+    "id": "35",
+    "title": "Half Lord of the Fishes Pose (Ardha Matsyendrasana)",
+    "content": "A seated twist that energizes the spine and stimulates the liver and kidneys.",
+    "safety_notes": "Avoid during pregnancy or if you have a spinal disc injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "36",
+    "title": "Reclining Bound Angle Pose (Supta Baddha Konasana)",
+    "content": "A restorative pose that opens the groins and hips while calming the nervous system.",
+    "safety_notes": "Use pillows under the knees if the stretch in the inner thighs is too intense.",
+    "category": "Beginner"
+  },
+  {
+    "id": "37",
+    "title": "Thread the Needle (Parsva Balasana)",
+    "content": "Gently stretches the shoulders, arms, upper back, and neck.",
+    "safety_notes": "Avoid if you have a chronic neck or shoulder injury.",
+    "category": "Beginner"
+  },
+  {
+    "id": "38",
+    "title": "High Lunge (Ashta Chandrasana)",
+    "content": "Strengthens the legs and arms while opening the hips and chest.",
+    "safety_notes": "If balance is difficult, keep the back heel against a wall for support.",
+    "category": "Beginner"
+  },
+  {
+    "id": "39",
+    "title": "Chair Pose (Utkatasana)",
+    "content": "Strengthens the legs, back, and shoulders. It builds heat in the body and tones the core.",
+    "safety_notes": "Avoid if you have chronic knee pain or low blood pressure.",
+    "category": "Beginner"
+  },
+  {
+    "id": "40",
+    "title": "Downward Dog on a Chair",
+    "content": "A modified version of Downward Dog that is easier on the wrists and shoulders.",
+    "safety_notes": "Ensure the chair is stable and placed against a wall.",
+    "category": "Beginner"
+  },
+  {
+    "id": "41",
+    "title": "Wind-Relieving Pose (Pavanamuktasana)",
+    "content": "Excellent for digestion and releasing gas. It also stretches the lower back and neck.",
+    "safety_notes": "Avoid if you have a recent abdominal surgery or hernia.",
+    "category": "Beginner"
+  },
+  {
+    "id": "42",
+    "title": "Mountain Pose with Arms Overhead (Urdhva Hastasana)",
+    "content": "Stretches the belly and improves digestion while firming the shoulders and arms.",
+    "safety_notes": "Do not look up if you have neck pain; look straight ahead.",
+    "category": "Beginner"
+  },
+  {
+    "id": "43",
+    "title": "Thunderbolt Pose (Vajrasana)",
+    "content": "A seated pose that is ideal for digestion. It can be practiced immediately after a meal.",
+    "safety_notes": "Avoid if you have acute knee or ankle injuries.",
+    "category": "Beginner"
+  },
+  {
+    "id": "44",
+    "title": "Scale Pose (Tolasana) - Modified",
+    "content": "A modified seated balance that begins to build arm and core strength.",
+    "safety_notes": "Avoid if you have wrist or shoulder pain.",
+    "category": "Beginner"
+  },
+  {
+    "id": "45",
+    "title": "Half Forward Fold (Ardha Uttanasana)",
+    "content": "Stretches the front of the torso and strengthens the back while improving posture.",
+    "safety_notes": "Keep the spine flat; do not round the back.",
+    "category": "Beginner"
+  },
+  {
+    "id": "46",
+    "title": "Side Plank - Modified (Vasisthasana)",
+    "content": "A modified side balance with one knee on the floor. Builds core and shoulder strength.",
+    "safety_notes": "Keep the supporting wrist directly under the shoulder.",
+    "category": "Beginner"
+  },
+  {
+    "id": "47",
+    "title": "Goddess Pose (Utkata Konasana)",
+    "content": "A wide-legged squat that strengthens the lower body and opens the hips and chest.",
+    "safety_notes": "Avoid if you have recent hip or knee injuries.",
+    "category": "Beginner"
+  },
+  {
+    "id": "48",
+    "title": "Crescent Lunge (Anjaneyasana Variation)",
+    "content": "A variation of the low lunge with arms reaching back to open the heart and lungs.",
+    "safety_notes": "Be careful not to over-arch the lower back.",
+    "category": "Beginner"
+  },
+  {
+    "id": "49",
+    "title": "Deer Pose (Yin Yoga)",
+    "content": "A gentle seated twist and hip opener that is very effective for improving internal and external rotation of the hips.",
+    "safety_notes": "If you feel sharp pain in the knees, adjust the angle of the legs.",
+    "category": "Beginner"
+  },
+  {
+    "id": "50",
+    "title": "Palm Tree Pose (Urdhva Hastasana Variation)",
+    "content": "A standing stretch on the tiptoes that improves balance and stretches the entire body.",
+    "safety_notes": "Avoid if you have frequent vertigo or dizziness.",
+    "category": "Beginner"
+  },
+  {
+    "id": "51",
+    "title": "Crow Pose (Bakasana)",
+    "content": "A compact arm balance that builds wrist, arm, and core strength. It helps overcome the fear of falling and improves focus.",
+    "safety_notes": "Avoid if you have carpal tunnel syndrome or a wrist injury. Place a pillow in front of you for safety.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "52",
+    "title": "Eagle Pose (Garudasana)",
+    "content": "A balance pose that requires focus. It stretches the upper back and shoulders while strengthening the thighs and calves.",
+    "safety_notes": "Avoid if you have recent knee, ankle, or shoulder injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "53",
+    "title": "Boat Pose (Navasana)",
+    "content": "A powerful core-strengthening pose that challenges the abdominal muscles and hip flexors while improving balance.",
+    "safety_notes": "Avoid if you have low blood pressure, asthma, or a recent abdominal injury.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "54",
+    "title": "Half Moon Pose (Ardha Chandrasana)",
+    "content": "A standing balance that stretches the groins and hamstrings while strengthening the spine and thighs.",
+    "safety_notes": "If you have neck issues, don't look upward; look straight ahead or at the floor.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "55",
+    "title": "Camel Pose (Ustrasana)",
+    "content": "A deep heart-opening backbend that stretches the entire front of the body and improves spinal flexibility.",
+    "safety_notes": "Avoid if you have high or low blood pressure, or a serious lower back or neck injury.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "56",
+    "title": "Side Plank (Vasisthasana)",
+    "content": "An arm balance that focuses on the obliques and shoulder stability. It tones the arms and strengthens the core.",
+    "safety_notes": "Avoid if you have serious wrist, elbow, or shoulder injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "57",
+    "title": "Pigeon Pose (Eka Pada Rajakapotasana)",
+    "content": "A deep hip opener that targets the psoas and piriformis muscles. Great for releasing emotional stress held in the hips.",
+    "safety_notes": "Avoid if you have chronic knee injuries or sacroiliac issues.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "58",
+    "title": "Warrior III (Virabhadrasana III)",
+    "content": "A challenging balance that strengthens the ankles, legs, and back muscles while improving overall posture.",
+    "safety_notes": "Avoid if you have high blood pressure or a recent hip injury.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "59",
+    "title": "Dolphin Pose (Ardha Pincha Mayurasana)",
+    "content": "Similar to Downward Dog but on the forearms. It strengthens the core and shoulders and prepares the body for inversions.",
+    "safety_notes": "Avoid if you have shoulder or neck injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "60",
+    "title": "Revolved Triangle Pose (Parivrtta Trikonasana)",
+    "content": "A standing twist that improves balance and digestion while stretching the hips and spine.",
+    "safety_notes": "Avoid if you have a back injury or low blood pressure.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "61",
+    "title": "Cow Face Pose (Gomukhasana)",
+    "content": "A seated pose that stretches the hips, thighs, and ankles, as well as the shoulders and chest.",
+    "safety_notes": "If you cannot reach your hands behind your back, use a yoga strap.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "62",
+    "title": "Upward-Facing Dog (Urdhva Mukha Svanasana)",
+    "content": "A backbend that strengthens the spine, arms, and wrists while stretching the chest and abdomen.",
+    "safety_notes": "Avoid if you have carpal tunnel syndrome or a recent back injury.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "63",
+    "title": "Four-Limbed Staff Pose (Chaturanga Dandasana)",
+    "content": "A key transitional pose in Vinyasa. It develops incredible arm and core strength.",
+    "safety_notes": "Ensure shoulders don't drop below the level of the elbows to prevent shoulder strain.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "64",
+    "title": "Bow Pose (Dhanurasana)",
+    "content": "The body takes the shape of a bow. It strengthens the back muscles and stimulates the abdominal organs.",
+    "safety_notes": "Avoid if you have high blood pressure, a hernia, or recent abdominal surgery.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "65",
+    "title": "Wild Thing (Camatkarasana)",
+    "content": "A 'heart-opening' pose that stretches the front of the body and builds strength in the shoulders and upper back.",
+    "safety_notes": "Avoid if you have carpal tunnel or rotator cuff injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "66",
+    "title": "Extended Hand-to-Big-Toe Pose (Utthita Hasta Padangusthasana)",
+    "content": "A standing balance that requires strong hamstrings and steady focus.",
+    "safety_notes": "Use a strap or keep the knee bent if the hamstrings are tight.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "67",
+    "title": "Fish Pose (Matsyasana)",
+    "content": "A backbend that opens the chest and throat. It is often used as a counter-pose to Shoulder Stand.",
+    "safety_notes": "Avoid if you have serious neck or lower back injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "68",
+    "title": "Revolved Side Angle (Parivrtta Parsvakonasana)",
+    "content": "An intense standing twist that builds strength and increases spinal mobility.",
+    "safety_notes": "Avoid if you have back or hip injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "69",
+    "title": "Forearm Plank (Phalakasana II)",
+    "content": "Builds deep core endurance and shoulder stability more intensely than a high plank.",
+    "safety_notes": "Do not let the lower back sag; keep the tailbone tucked.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "70",
+    "title": "Garuda Leg Lunge",
+    "content": "A variation of the lunge incorporating Eagle legs to deepen the stretch in the outer hips.",
+    "safety_notes": "Ensure the front knee is stable and does not wobble.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "71",
+    "title": "King Pigeon Pose (Eka Pada Rajakapotasana I)",
+    "content": "A deep backbend and hip opener that stretches the entire front of the body and strengthens the back.",
+    "safety_notes": "Avoid if you have acute knee or ankle injuries. Use a strap for the back foot if needed.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "72",
+    "title": "Side Crow (Parsva Bakasana)",
+    "content": "A twisting arm balance that strengthens the wrists, arms, and obliques while improving detoxification.",
+    "safety_notes": "Avoid if you have wrist or lower back injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "73",
+    "title": "Fire Log Pose (Agnistambhasana)",
+    "content": "An intense hip opener that targets the outer hips and glutes. It is excellent for increasing rotation in the hip joints.",
+    "safety_notes": "Avoid if you have knee injuries. Place a blanket between the knees if there is space.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "74",
+    "title": "Marichi's Pose C (Marichyasana C)",
+    "content": "A seated twist that stretches the spine and stimulates the digestive organs.",
+    "safety_notes": "Avoid if you have a spinal disc injury or are pregnant.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "75",
+    "title": "Heron Pose (Krounchasana)",
+    "content": "A seated pose that deeply stretches the hamstrings of one leg and the quadriceps of the other.",
+    "safety_notes": "Avoid if you have serious knee or ankle injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "76",
+    "title": "Scale Pose (Tolasana)",
+    "content": "An arm balance performed from a cross-legged position. It strengthens the core, wrists, and arms.",
+    "safety_notes": "Avoid if you have shoulder or wrist injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "77",
+    "title": "Compass Pose (Parivrtta Surya Yantrasana)",
+    "content": "A seated pose that requires high flexibility in the hamstrings and shoulders. It stretches the side body.",
+    "safety_notes": "Only attempt if hamstrings and shoulders are well-warmed.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "78",
+    "title": "Humble Warrior (Baddha Virabhadrasana)",
+    "content": "A standing pose that builds leg strength and opens the shoulders and hips through a forward fold.",
+    "safety_notes": "Ensure the front knee stays aligned over the ankle to protect the joint.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "79",
+    "title": "Reclining Hero Pose (Supta Virasana)",
+    "content": "An intense stretch for the thighs, knees, and ankles. It relieves tired legs and helps with digestion.",
+    "safety_notes": "Avoid if you have serious back, knee, or ankle injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "80",
+    "title": "Bird of Paradise (Svarga Dvijasana)",
+    "content": "A complex standing balance that requires hip mobility and shoulder flexibility while bound.",
+    "safety_notes": "Warm up the hamstrings and shoulders thoroughly before attempting.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "81",
+    "title": "Gate Pose Variation (Parighasana II)",
+    "content": "A deep side-bend that stretches the intercostal muscles and hamstrings while opening the chest.",
+    "safety_notes": "Avoid if you have recent abdominal surgery.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "82",
+    "title": "Revolved Half Moon (Parivrtta Ardha Chandrasana)",
+    "content": "A challenging balance and twist that improves core stability and hip strength.",
+    "safety_notes": "Use a block under the bottom hand to maintain a straight spine.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "83",
+    "title": "Peacock Pose (Mayurasana)",
+    "content": "An arm balance where the body is held horizontal. It strengthens the forearms and detoxifies abdominal organs.",
+    "safety_notes": "Avoid if you have wrist pain or high blood pressure.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "84",
+    "title": "Frog Pose (Mandukasana)",
+    "content": "An intense hip opener that targets the adductors. It helps improve flexibility in the pelvic region.",
+    "safety_notes": "Avoid if you have acute knee or hip injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "85",
+    "title": "Splits Pose (Hanumanasana)",
+    "content": "A deep stretch for the hamstrings and hip flexors. It builds patience and flexibility.",
+    "safety_notes": "Use blocks under the hands for support to prevent over-stretching.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "86",
+    "title": "One-Legged King Pigeon II",
+    "content": "A deep backbend that opens the chest and hip flexors while strengthening the spine.",
+    "safety_notes": "Avoid if you have lower back pain or hip replacement history.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "87",
+    "title": "Lotus Pose (Padmasana)",
+    "content": "The traditional pose for meditation. It calms the mind and opens the hips and ankles.",
+    "safety_notes": "Avoid if you have knee injuries; try Half-Lotus instead.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "88",
+    "title": "Feathered Peacock Pose - Prep (Pincha Mayurasana Prep)",
+    "content": "Forearm stand preparation that builds the necessary shoulder and core strength.",
+    "safety_notes": "Focus on keeping the elbows shoulder-width apart.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "89",
+    "title": "Revolved Head-to-Knee Pose (Parivrtta Janu Sirsasana)",
+    "content": "A seated twist and side stretch that opens the ribs and stretches the hamstrings.",
+    "safety_notes": "Keep the chest open and avoid collapsing forward toward the floor.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "90",
+    "title": "Upward Plank Pose (Purvottanasana)",
+    "content": "Strengthens the triceps, back, and legs while stretching the front of the shoulders and chest.",
+    "safety_notes": "Avoid if you have carpal tunnel syndrome or neck injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "91",
+    "title": "One-Legged Bridge Pose (Eka Pada Setu Bandhasana)",
+    "content": "A variation of Bridge Pose that increases the challenge to the glutes and core.",
+    "safety_notes": "Keep the hips level to avoid straining the lower back.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "92",
+    "title": "Noose Pose (Pasasana)",
+    "content": "A deep squat and twist that stretches the spine and improves digestion.",
+    "safety_notes": "Avoid if you have knee or lower back issues.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "93",
+    "title": "Scissor Pose (Variation of Eka Pada Koundinyasana II)",
+    "content": "An arm balance that stretches the groins while building immense upper body strength.",
+    "safety_notes": "Only attempt after a thorough hip and hamstring warm-up.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "94",
+    "title": "Ear-Pressure Pose (Karnapidasana)",
+    "content": "An inversion that stretches the spine and calms the nervous system by blocking out external noise.",
+    "safety_notes": "Avoid with neck injuries or during menstruation.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "95",
+    "title": "Aitken's Pose (Flying Lizard)",
+    "content": "A challenging arm balance that combines the hip opening of Lizard Pose with the strength of Crow Pose.",
+    "safety_notes": "Avoid if you have wrist or shoulder issues.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "96",
+    "title": "Grasshopper Pose (Maksiakasana)",
+    "content": "A complex twisting arm balance that requires hip rotation and arm strength.",
+    "safety_notes": "Requires high level of hip mobility; do not force the twist.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "97",
+    "title": "Revolved Abdomen Pose (Jathara Parivartanasana)",
+    "content": "A lying twist with straight legs that strengthens the core and detoxifies the body.",
+    "safety_notes": "Keep the shoulders grounded; avoid lifting them off the mat.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "98",
+    "title": "Baby Grasshopper Pose",
+    "content": "A beginner-friendly version of a twisting arm balance that opens the hips and hamstrings.",
+    "safety_notes": "Focus on the placement of the foot to ensure stability.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "99",
+    "title": "Eight-Angle Pose (Astavakrasana)",
+    "content": "A sophisticated twisting arm balance that strengthens the core and arms.",
+    "safety_notes": "Avoid if you have wrist, elbow, or shoulder injuries.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "100",
+    "title": "Bound Triangle Pose (Baddha Trikonasana)",
+    "content": "A variation of Triangle Pose with a bind, deepening the stretch in the chest and shoulders.",
+    "safety_notes": "Avoid if you have shoulder injuries or rotator cuff issues.",
+    "category": "Intermediate"
+  },
+  {
+    "id": "101",
+    "title": "Headstand (Sirsasana)",
+    "content": "Known as the 'King of Poses,' this inversion improves circulation, stimulates the pineal and pituitary glands, and strengthens the core and neck.",
+    "safety_notes": "High risk for neck injuries. Avoid if you have high blood pressure, glaucoma, or recent neck surgery.",
+    "category": "Advanced"
+  },
+  {
+    "id": "102",
+    "title": "Handstand (Adho Mukha Vrksasana)",
+    "content": "A full inversion that builds incredible shoulder, arm, and wrist strength while improving overall balance and confidence.",
+    "safety_notes": "Avoid if you have wrist, shoulder, or back injuries, or frequent headaches.",
+    "category": "Advanced"
+  },
+  {
+    "id": "103",
+    "title": "Feathered Peacock Pose (Pincha Mayurasana)",
+    "content": "A forearm balance that requires open shoulders and a strong core. It improves balance and calms the brain.",
+    "safety_notes": "Do not attempt without sufficient shoulder mobility. Avoid with heart conditions.",
+    "category": "Advanced"
+  },
+  {
+    "id": "104",
+    "title": "Scorpion Pose (Vrischikasana)",
+    "content": "A dramatic inversion where the legs reach over the head toward the face while balancing on the forearms.",
+    "safety_notes": "Extremely advanced backbend. Avoid if you have hip or back issues or high blood pressure.",
+    "category": "Advanced"
+  },
+  {
+    "id": "105",
+    "title": "Firefly Pose (Tittibhasana)",
+    "content": "An arm balance that requires deep hamstring flexibility and core strength to lift the legs straight out.",
+    "safety_notes": "Avoid if you have wrist, shoulder, or lower back injuries.",
+    "category": "Advanced"
+  },
+  {
+    "id": "106",
+    "title": "One-Legged Arm Balance (Eka Pada Koundinyasana I)",
+    "content": "A twisted arm balance that challenges the obliques and requires open hamstrings and hip flexors.",
+    "safety_notes": "Avoid if you have lower back issues or wrist strain.",
+    "category": "Advanced"
+  },
+  {
+    "id": "107",
+    "title": "One-Legged Arm Balance II (Eka Pada Koundinyasana II)",
+    "content": "Focuses on the inner thighs and hamstrings. The legs are split in the air while balancing on the arms.",
+    "safety_notes": "Ensure shoulders are level to avoid rotator cuff strain.",
+    "category": "Advanced"
+  },
+  {
+    "id": "108",
+    "title": "King Pigeon Pose (Full Rajakapotasana)",
+    "content": "A profound backbend where the back foot is pulled to the head. It stretches the entire front of the body.",
+    "safety_notes": "Requires extreme spinal and hip flexibility. Use a strap to prevent over-straining.",
+    "category": "Advanced"
+  },
+  {
+    "id": "109",
+    "title": "Formidable Pose (Gandha Bherundasana)",
+    "content": "An intense chin stand and backbend that requires maximum flexibility in the spine and shoulders.",
+    "safety_notes": "High risk for the neck and throat. Should only be practiced with a teacher.",
+    "category": "Advanced"
+  },
+  {
+    "id": "110",
+    "title": "Shoulder-Pressing Pose (Bhujapidasana)",
+    "content": "An arm balance where the body is supported by the hands while the thighs rest on the upper arms.",
+    "safety_notes": "Avoid if you have wrist or shoulder injuries.",
+    "category": "Advanced"
+  },
+  {
+    "id": "111",
+    "title": "One-Legged Crow Pose (Eka Pada Bakasana)",
+    "content": "A variation of Crow Pose where one leg is extended straight back into the air.",
+    "safety_notes": "Requires intense core engagement and wrist strength.",
+    "category": "Advanced"
+  },
+  {
+    "id": "112",
+    "title": "Flying Pigeon Pose (Eka Pada Galavasana)",
+    "content": "An arm balance that requires the hip flexibility of Pigeon Pose and the strength of Crow Pose.",
+    "safety_notes": "Avoid if you have knee injuries as the foot hooks the arm tightly.",
+    "category": "Advanced"
+  },
+  {
+    "id": "113",
+    "title": "Plow Pose with Bind (Baddha Halasana)",
+    "content": "A variation of Plow Pose where the arms are bound, increasing the stretch in the upper back and neck.",
+    "safety_notes": "Avoid if you have neck or shoulder issues. Do not turn the head while in the pose.",
+    "category": "Advanced"
+  },
+  {
+    "id": "114",
+    "title": "Side Plank with Leg Lift (Vasisthasana B)",
+    "content": "Side plank while holding the big toe of the top leg and extending it toward the ceiling.",
+    "safety_notes": "Requires strong hamstrings and exceptional side-body strength.",
+    "category": "Advanced"
+  },
+  {
+    "id": "115",
+    "title": "Standing Split (Urdhva Prasarita Eka Padasana)",
+    "content": "A balance and deep stretch where one leg stays grounded and the other reaches toward the ceiling.",
+    "safety_notes": "Avoid if you have recent hamstring tears or lower back issues.",
+    "category": "Advanced"
+  },
+  {
+    "id": "116",
+    "title": "Full Wheel Pose (Chakrasana)",
+    "content": "A deep backbend that creates a circle with the body. It strengthens the entire back body.",
+    "safety_notes": "Avoid with carpal tunnel, heart problems, or chronic back pain.",
+    "category": "Advanced"
+  },
+  {
+    "id": "117",
+    "title": "Tortoise Pose (Kurmasana)",
+    "content": "A seated forward fold where the arms are tucked under the legs. It symbolizes inner withdrawal.",
+    "safety_notes": "Requires extreme hip and hamstring mobility. Avoid if you have a herniated disc.",
+    "category": "Advanced"
+  },
+  {
+    "id": "118",
+    "title": "Peacock Pose in Lotus (Padma Mayurasana)",
+    "content": "A combination of the Peacock arm balance and the Lotus seated pose.",
+    "safety_notes": "Highly stressful for the wrists and knees. Use caution.",
+    "category": "Advanced"
+  },
+  {
+    "id": "119",
+    "title": "Upward Lotus (Urdhva Padmasana in Sirsasana)",
+    "content": "Performing the Lotus pose while in a full Headstand.",
+    "safety_notes": "Requires mastery of both the Headstand and the Lotus pose.",
+    "category": "Advanced"
+  },
+  {
+    "id": "120",
+    "title": "One-Armed Handstand (Eka Hasta Adho Mukha Vrksasana)",
+    "content": "The peak of balancing poses, requiring immense focus, core, and shoulder power.",
+    "safety_notes": "Extremely high risk of falling. Practicing near a wall is essential.",
+    "category": "Advanced"
+  },
+  {
+    "id": "121",
+    "title": "Embryo in Headstand (Pindasana in Sirsasana)",
+    "content": "A variation where the legs are in lotus and drawn down toward the chest while inverted.",
+    "safety_notes": "Avoid if you have neck, hip, or knee issues.",
+    "category": "Advanced"
+  },
+  {
+    "id": "122",
+    "title": "Knee-to-Ear Headstand",
+    "content": "A variation of Headstand that requires significant abdominal control and spinal flexibility.",
+    "safety_notes": "Maintain weight on the forearms, not the neck.",
+    "category": "Advanced"
+  },
+  {
+    "id": "123",
+    "title": "Standing Compass Pose",
+    "content": "A standing version of the seated Compass pose, requiring total body balance and open hips.",
+    "safety_notes": "Avoid if you have unstable hips or severe hamstring tightness.",
+    "category": "Advanced"
+  },
+  {
+    "id": "124",
+    "title": "Full Bow Pose (Poorna Dhanurasana)",
+    "content": "A deep backbend where the hands reach back to grab the toes with elbows pointing upward.",
+    "safety_notes": "High intensity for the shoulders and lower back.",
+    "category": "Advanced"
+  },
+  {
+    "id": "125",
+    "title": "Yogi Staff Pose (Yoga Dandasana)",
+    "content": "A seated pose where one foot is placed in the armpit, resembling a staff.",
+    "safety_notes": "Extremely intense for the hip and knee joints. Risk of meniscus injury if forced.",
+    "category": "Advanced"
+  },
+  {
+    "id": "126",
+    "title": "Dragonfly Pose (Maksikanasana)",
+    "content": "A complex arm balance that involves a deep twist and resting the thigh on the back of the upper arm while the other leg extends horizontally.",
+    "safety_notes": "Requires high hip mobility and wrist strength. Avoid if you have lower back or shoulder injuries.",
+    "category": "Advanced"
+  },
+  {
+    "id": "127",
+    "title": "Two-Legged Crane Pose (Dwi Pada Bakasana)",
+    "content": "An advanced arm balance where the knees are tucked into the armpits and the arms are fully straightened, lifting the entire body weight.",
+    "safety_notes": "Avoid if you have carpal tunnel syndrome or shoulder instability.",
+    "category": "Advanced"
+  },
+  {
+    "id": "128",
+    "title": "Shoulder-Stand with Lotus (Padma Sarvangasana)",
+    "content": "A combination of a full shoulder stand and the lotus pose. It stimulates the thyroid and calms the nervous system.",
+    "safety_notes": "Do not turn your head in this pose. Avoid if you have neck injuries or high blood pressure.",
+    "category": "Advanced"
+  },
+  {
+    "id": "129",
+    "title": "One-Legged Wheel Pose (Eka Pada Urdhva Dhanurasana)",
+    "content": "A variation of the full wheel where one leg is extended straight toward the ceiling, challenging the core and shoulder stability.",
+    "safety_notes": "Ensure your base foot is stable. Avoid if you have acute back pain or wrist issues.",
+    "category": "Advanced"
+  },
+  {
+    "id": "130",
+    "title": "Bound Garland Pose (Baddha Malasana)",
+    "content": "A deep squat where the arms wrap around the back and legs to create a bind, deepening the stretch in the shoulders and hips.",
+    "safety_notes": "Avoid if you have chronic knee or ankle issues.",
+    "category": "Advanced"
+  },
+  {
+    "id": "131",
+    "title": "Peacock Pose in Lotus (Padma Mayurasana)",
+    "content": "An arm balance with legs in Lotus pose. It provides a deep detox to the abdominal organs and builds massive forearm strength.",
+    "safety_notes": "Extremely intense on the wrists and digestive system. Practice on an empty stomach.",
+    "category": "Advanced"
+  },
+  {
+    "id": "132",
+    "title": "Handstand with Lotus (Padma Adho Mukha Vrksasana)",
+    "content": "A full handstand where the legs are folded into the Lotus position while inverted.",
+    "safety_notes": "Requires mastery of the handstand. Avoid if you have unstable knee ligaments.",
+    "category": "Advanced"
+  },
+  {
+    "id": "133",
+    "title": "Wounded Peacock (Eka Hasta Mayurasana)",
+    "content": "The one-armed version of the peacock pose. It requires near-perfect center of gravity control and wrist strength.",
+    "safety_notes": "High risk of wrist strain. Only for practitioners with elite upper body strength.",
+    "category": "Advanced"
+  },
+  {
+    "id": "134",
+    "title": "Pose Dedicated to Sage Koundinya (Eka Pada Koundinyasana I)",
+    "content": "A twisted arm balance that strengthens the arms and core while improving spinal flexibility and balance.",
+    "safety_notes": "Ensure your core is fully engaged to protect the lower back.",
+    "category": "Advanced"
+  },
+  {
+    "id": "135",
+    "title": "Side Plank with Lotus (Padma Vasisthasana)",
+    "content": "A side plank variation where the top leg is in half-lotus, requiring incredible balance and hip flexibility.",
+    "safety_notes": "Avoid if you have lateral knee pain or shoulder impingement.",
+    "category": "Advanced"
+  },
+  {
+    "id": "136",
+    "title": "Supported Headstand II (Sirsasana II)",
+    "content": "Often called Tripod Headstand, where the weight is distributed between the head and the palms of the hands.",
+    "safety_notes": "Place more weight on the hands than the head to protect the cervical spine.",
+    "category": "Advanced"
+  },
+  {
+    "id": "137",
+    "title": "Flying Crow Pose (Eka Pada Galavasana)",
+    "content": "A variation of the arm balance where one leg is hooked over the arms and the other is extended straight back.",
+    "safety_notes": "Avoid if you have knee injuries; the hook requires a deep, safe hip rotation.",
+    "category": "Advanced"
+  },
+  {
+    "id": "138",
+    "title": "Firefly Pose Variation (B-Tittibhasana)",
+    "content": "A standing variation where the feet are behind the head, requiring extreme hamstring and hip flexibility.",
+    "safety_notes": "High risk of pulling a hamstring if not properly warmed up.",
+    "category": "Advanced"
+  },
+  {
+    "id": "139",
+    "title": "Inverted Staff Pose (Dwi Pada Viparita Dandasana)",
+    "content": "An advanced backbend on the forearms that opens the chest, heart, and shoulders while strengthening the legs.",
+    "safety_notes": "Avoid if you have high blood pressure or a history of spinal disc herniation.",
+    "category": "Advanced"
+  },
+  {
+    "id": "140",
+    "title": "Split Leg Headstand (Eka Pada Sirsasana)",
+    "content": "A headstand where one leg remains vertical and the other is lowered toward the floor or behind the head.",
+    "safety_notes": "Requires intense core control to prevent tipping over.",
+    "category": "Advanced"
+  },
+  {
+    "id": "141",
+    "title": "Eight-Angle Pose (Astavakrasana)",
+    "content": "A powerful twisting arm balance that strengthens the wrists and arms and tones the abdominal muscles.",
+    "safety_notes": "Avoid if you have elbow or shoulder injuries.",
+    "category": "Advanced"
+  },
+  {
+    "id": "142",
+    "title": "Bound Half-Moon (Baddha Ardha Chandrasana)",
+    "content": "A standing balance where the top arm reaches back to grab the top foot, creating a deep chest opening.",
+    "safety_notes": "Avoid if you have balance issues or knee instability.",
+    "category": "Advanced"
+  },
+  {
+    "id": "143",
+    "title": "Pigeon Pose in Handstand",
+    "content": "Bringing one leg into the pigeon shape while holding a full handstand against a wall or in space.",
+    "safety_notes": "High risk of falling. Ensure your handstand is stable before trying leg variations.",
+    "category": "Advanced"
+  },
+  {
+    "id": "144",
+    "title": "Formidable Face Pose (Ganda Bherundasana)",
+    "content": "A chin stand with a deep backbend where the feet come over the head to touch the ground in front of the face.",
+    "safety_notes": "Extreme pressure on the neck and chin. Do not attempt without professional guidance.",
+    "category": "Advanced"
+  },
+  {
+    "id": "145",
+    "title": "Full Splits (Hanumanasana)",
+    "content": "Named after the monkey god, this pose involves one leg extended forward and the other back in a full line.",
+    "safety_notes": "Go slow; do not force the hips to the floor if you feel sharp pain in the hamstrings.",
+    "category": "Advanced"
+  },
+  {
+    "id": "146",
+    "title": "Half-Bound Lotus Standing Fold",
+    "content": "Standing on one leg with the other in half-lotus while folding forward to touch the floor.",
+    "safety_notes": "Avoid if you have meniscus issues in the lotus leg.",
+    "category": "Advanced"
+  },
+  {
+    "id": "147",
+    "title": "Mountain Pose on Tiptoes with Bind",
+    "content": "A balance-intensive variation of Tadasana that challenges the central nervous system and ankle strength.",
+    "safety_notes": "Avoid if you have inner-ear issues or frequent vertigo.",
+    "category": "Advanced"
+  },
+  {
+    "id": "148",
+    "title": "One-Legged Inverted Staff Pose",
+    "content": "A variation of the backbend on the forearms where one leg is lifted vertically into the air.",
+    "safety_notes": "Requires immense back strength and shoulder flexibility.",
+    "category": "Advanced"
+  },
+  {
+    "id": "149",
+    "title": "Embryo Pose (Pindasana)",
+    "content": "A variation of shoulder stand where the legs are in lotus and the arms wrap around them.",
+    "safety_notes": "Restricts breathing slightly; stay calm and take shallow, steady breaths.",
+    "category": "Advanced"
+  },
+  {
+    "id": "150",
+    "title": "Corpse Pose (Savasana) - Deep Meditation",
+    "content": "While physically easy, the advanced version involves deep yoga nidra (psychic sleep) and total withdrawal of senses.",
+    "safety_notes": "If you fall asleep, you may miss the meditative benefits; try to stay conscious.",
+    "category": "Advanced"
+  }
+]
